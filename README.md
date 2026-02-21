@@ -21,6 +21,27 @@ Target Machine: Metasploitable 2
 3. Perform brute force attack using Hydra
 4. Save and analyze results
 
+## Usage
+
+Make the script executable:
+
+chmod +x bruteforce.sh
+
+Run the script with target IP and service name:
+
+./bruteforce.sh <target-ip> <service>
+
+Parameters:
+
+- <target-ip> : IP address of the target system
+- <service>   : Service to attack (ftp, ssh, smb, http, etc.)
+
+Example:
+
+./bruteforce.sh 10.0.2.9 ftp
+
+This will perform a brute force attack on the FTP service and save results in results.txt.
+
 ## Documentation
 
 See detailed guide here:
