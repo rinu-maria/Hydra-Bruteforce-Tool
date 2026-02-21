@@ -25,7 +25,7 @@ Target Machine: Metasploitable 2
 
 See detailed guide here:
 
-rockyou-hydra-attack-guide.md
+hydra-attack-guide.md
 
 ## Disclaimer
 
