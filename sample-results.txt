@@ -1,0 +1,1 @@
+[21][ftp] host: 10.0.2.9 login: msfadmin password: msfadmin
